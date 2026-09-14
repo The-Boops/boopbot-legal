@@ -1,0 +1,2 @@
+# boopbot-legal
+BoopBot
