@@ -1,2 +1,2 @@
-# boopbot-legal
+# BoopBot's Legal Documents' Page
 BoopBot
